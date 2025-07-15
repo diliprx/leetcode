@@ -24,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
