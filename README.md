@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/diliprx/leetcode/tree/master/0058-length-of-last-word) |
 | [3396-valid-word](https://github.com/diliprx/leetcode/tree/master/3396-valid-word) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
