@@ -28,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 ## Database
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/diliprx/leetcode/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
