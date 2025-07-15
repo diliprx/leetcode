@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/diliprx/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
