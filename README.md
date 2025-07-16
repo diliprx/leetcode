@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
+| [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Database
 |  |
