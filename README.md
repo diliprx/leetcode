@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/diliprx/leetcode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
