@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/diliprx/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/diliprx/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
