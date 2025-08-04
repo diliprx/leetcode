@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -85,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
