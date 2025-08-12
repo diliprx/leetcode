@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diliprx/leetcode/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
