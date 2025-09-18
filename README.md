@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/diliprx/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/diliprx/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/diliprx/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/diliprx/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/diliprx/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
