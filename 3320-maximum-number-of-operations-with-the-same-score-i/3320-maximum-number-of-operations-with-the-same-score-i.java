@@ -6,7 +6,9 @@ class Solution {
             if(nums[i]+nums[i+1]==a){
                 b++;
             }
-            else break;
+            else{
+            break;
+            }
         }
         return b;
     }
