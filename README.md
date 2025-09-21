@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
