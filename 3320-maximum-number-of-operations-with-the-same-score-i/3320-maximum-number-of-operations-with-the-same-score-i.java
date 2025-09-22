@@ -7,7 +7,7 @@ class Solution {
                 b++;
             }
             else{
-            break;
+                break;
             }
         }
         return b;
