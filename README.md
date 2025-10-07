@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/diliprx/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diliprx/leetcode/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/diliprx/leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/diliprx/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/diliprx/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Greedy
