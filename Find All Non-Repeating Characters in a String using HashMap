@@ -1,0 +1,30 @@
+import java.util.*;
+class Main{
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+        String s=sc.nextLine();
+        HashMap<Character,Integer>a=new HashMap<>();
+        for(char b:s.toCharArray()){
+            a.put(b,a.getOrDefault(b,0)+1);
+        }
+        ArrayList<Character>c=new ArrayList<>();
+        
+        for(char b:s.toCharArray()){
+           if(a.get(b)==1){
+               c.add(b);
+           }
+        }
+        if(c.isEmpty()){
+        System.out.print("No non-repeating characters found");
+        }
+        else{
+            System.out.print("Non-repeating characters are: ");
+            for(int i=0;i<c.size();i++){
+                System.out.print(c.get(i));
+            if(i<c.size()-1){
+                System.out.print(",");
+            }
+            }
+        }
+    }
+}
