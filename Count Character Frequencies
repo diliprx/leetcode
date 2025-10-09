@@ -1,0 +1,14 @@
+import java.util.*;
+class Main{
+   public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    String s=sc.nextLine();
+    HashMap<Character,Integer>a=new HashMap<>();
+    for(char b:s.toCharArray()){
+        a.put(b,a.getOrDefault(b,0)+1);
+     }
+    for(Map.Entry<Character,Integer> e:a.entrySet()){
+       System.out.println(e.getKey()+":"+e.getValue());
+    }
+  }
+}
