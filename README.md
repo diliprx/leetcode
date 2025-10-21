@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/diliprx/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diliprx/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/diliprx/leetcode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/diliprx/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Memoization
 |  |
