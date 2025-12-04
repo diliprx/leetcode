@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diliprx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diliprx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
