@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/diliprx/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/diliprx/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/diliprx/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/diliprx/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/diliprx/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/diliprx/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
