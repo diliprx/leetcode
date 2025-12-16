@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/diliprx/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/diliprx/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/diliprx/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/diliprx/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Greedy
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/diliprx/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/diliprx/leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
