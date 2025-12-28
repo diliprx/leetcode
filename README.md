@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/diliprx/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/diliprx/leetcode/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/diliprx/leetcode/tree/master/1925-count-square-sum-triples) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/diliprx/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
