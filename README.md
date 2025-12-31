@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
 | [1642-water-bottles](https://github.com/diliprx/leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/diliprx/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/diliprx/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diliprx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/diliprx/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
 |  |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/diliprx/leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
