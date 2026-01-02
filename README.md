@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/diliprx/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Segment Tree
 |  |
 | ------- |
