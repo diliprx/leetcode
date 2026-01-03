@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/diliprx/leetcode/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diliprx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diliprx/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diliprx/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/diliprx/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/diliprx/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
