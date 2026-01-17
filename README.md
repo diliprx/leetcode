@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/diliprx/leetcode/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/diliprx/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/diliprx/leetcode/tree/master/2652-sum-multiples) |
+| [3115-maximum-prime-difference](https://github.com/diliprx/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diliprx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3115-maximum-prime-difference](https://github.com/diliprx/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diliprx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/diliprx/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/diliprx/leetcode/tree/master/2427-number-of-common-factors) |
+| [3115-maximum-prime-difference](https://github.com/diliprx/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diliprx/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
