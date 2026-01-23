@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/diliprx/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/diliprx/leetcode/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/diliprx/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
