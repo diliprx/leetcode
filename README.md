@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/diliprx/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/diliprx/leetcode/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/diliprx/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/diliprx/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/diliprx/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/diliprx/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/diliprx/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/diliprx/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/diliprx/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/diliprx/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/diliprx/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/diliprx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/diliprx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
