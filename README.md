@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/diliprx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/diliprx/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/diliprx/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/diliprx/leetcode/tree/master/0066-plus-one) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/diliprx/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/diliprx/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diliprx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diliprx/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/diliprx/leetcode/tree/master/0165-compare-version-numbers) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/diliprx/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/diliprx/leetcode/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
