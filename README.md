@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/diliprx/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/diliprx/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/diliprx/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
