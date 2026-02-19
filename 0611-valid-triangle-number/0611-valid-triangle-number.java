@@ -8,9 +8,6 @@ class Solution {
                     if(nums[i]+nums[j]>nums[k]){
                         c++;
                     }
-                    else{
-                        break;
-                    }
                 }
             }
         }
