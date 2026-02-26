@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/diliprx/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/diliprx/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/diliprx/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/diliprx/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/diliprx/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/diliprx/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/diliprx/leetcode/tree/master/0867-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/diliprx/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/diliprx/leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
