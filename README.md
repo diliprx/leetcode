@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/diliprx/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diliprx/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/diliprx/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/diliprx/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diliprx/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/diliprx/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Segment Tree
 |  |
