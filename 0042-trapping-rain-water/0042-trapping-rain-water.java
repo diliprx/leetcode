@@ -1,23 +1,25 @@
 class Solution {
-    public int trap(int[] h) {
-        int l=0,r=h.length-1;
-        int lm=0,rm=0,t=0;
+    public int trap(int[] height) {
+        int l=0,r=height.length-1;
+        int lm=0;
+        int rm=0;
+        int t=0;
         while(l<r){
-            if(h[l]<h[r]){
-                if(h[l]>=lm){
-                    lm=h[l];
+            if(height[l]<height[r]){
+                if(lm<height[l]){
+                    lm+=height[l];
                 }
                 else{
-                    t+=lm-h[l];
+                    t+=height[l]-lm;
                 }
                 l++;
             }
             else{
-                if(h[r]>=rm){
-                    rm=h[r];
+                if(rm<height[r]){
+                    rm+=height[r];
                 }
                 else{
-                    t+=rm-h[r];
+                    t+=height[r]-rm;
                 }
                 r--;
             }
