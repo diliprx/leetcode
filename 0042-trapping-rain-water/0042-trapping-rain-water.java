@@ -6,20 +6,20 @@ class Solution {
         int t=0;
         while(l<r){
             if(height[l]<height[r]){
-                if(lm<height[l]){
-                    lm+=height[l];
+                if(lm<=height[l]){
+                    lm=height[l];
                 }
                 else{
-                    t+=height[l]-lm;
+                    t+=lm-height[l];
                 }
                 l++;
             }
             else{
-                if(rm<height[r]){
-                    rm+=height[r];
+                if(rm<=height[r]){
+                    rm=height[r];
                 }
                 else{
-                    t+=height[r]-rm;
+                    t+=rm-height[r];
                 }
                 r--;
             }
