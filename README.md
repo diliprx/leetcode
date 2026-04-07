@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/diliprx/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/diliprx/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/diliprx/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/diliprx/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/diliprx/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
@@ -474,11 +475,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/diliprx/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/diliprx/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/diliprx/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
