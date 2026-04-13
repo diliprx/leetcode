@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diliprx/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/diliprx/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diliprx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/diliprx/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/diliprx/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/diliprx/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/diliprx/leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/diliprx/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/diliprx/leetcode/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/diliprx/leetcode/tree/master/0976-largest-perimeter-triangle) |
