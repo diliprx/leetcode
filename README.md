@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diliprx/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/diliprx/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/diliprx/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3340-check-balanced-string](https://github.com/diliprx/leetcode/tree/master/3340-check-balanced-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/diliprx/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/diliprx/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
