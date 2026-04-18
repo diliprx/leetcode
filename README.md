@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/diliprx/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/diliprx/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/diliprx/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/diliprx/leetcode/tree/master/0461-hamming-distance) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/diliprx/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
