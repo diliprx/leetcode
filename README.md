@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diliprx/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/diliprx/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/diliprx/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/diliprx/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
