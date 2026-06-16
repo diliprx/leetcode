@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3340-check-balanced-string](https://github.com/diliprx/leetcode/tree/master/3340-check-balanced-string) |
 | [3396-valid-word](https://github.com/diliprx/leetcode/tree/master/3396-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/diliprx/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/diliprx/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/diliprx/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
