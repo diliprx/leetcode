@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/diliprx/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/diliprx/leetcode/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/diliprx/leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/diliprx/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/diliprx/leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/diliprx/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0804-unique-morse-code-words](https://github.com/diliprx/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/diliprx/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/diliprx/leetcode/tree/master/0877-stone-game) |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/diliprx/leetcode/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
