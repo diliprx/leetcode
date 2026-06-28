@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/diliprx/leetcode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/diliprx/leetcode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/diliprx/leetcode/tree/master/0607-sales-person) |
+| [1407-top-travellers](https://github.com/diliprx/leetcode/tree/master/1407-top-travellers) |
 | [1890-the-latest-login-in-2020](https://github.com/diliprx/leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Hash Table
 |  |
