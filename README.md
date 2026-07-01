@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3340-check-balanced-string](https://github.com/diliprx/leetcode/tree/master/3340-check-balanced-string) |
 | [3396-valid-word](https://github.com/diliprx/leetcode/tree/master/3396-valid-word) |
+| [3407-substring-matching-pattern](https://github.com/diliprx/leetcode/tree/master/3407-substring-matching-pattern) |
 | [3612-process-string-with-special-operations-i](https://github.com/diliprx/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/diliprx/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diliprx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/diliprx/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/diliprx/leetcode/tree/master/3407-substring-matching-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
