@@ -1,6 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        while(proudctnum(n) % t != 0) {
+        while(proudctnum(n) % t != 0){
             n++;
         }
         return n;
