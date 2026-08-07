@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/diliprx/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3492-maximum-containers-on-a-ship](https://github.com/diliprx/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diliprx/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/diliprx/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/diliprx/leetcode/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/diliprx/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
