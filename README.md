@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diliprx/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/diliprx/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/diliprx/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diliprx/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
