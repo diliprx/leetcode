@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/diliprx/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/diliprx/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/diliprx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/diliprx/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
