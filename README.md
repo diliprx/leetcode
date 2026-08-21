@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/diliprx/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/diliprx/leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/diliprx/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0746-min-cost-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/diliprx/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diliprx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/diliprx/leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/diliprx/leetcode/tree/master/0396-rotate-function) |
+| [0746-min-cost-climbing-stairs](https://github.com/diliprx/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/diliprx/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/diliprx/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/diliprx/leetcode/tree/master/1013-fibonacci-number) |
