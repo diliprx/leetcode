@@ -1,17 +1,17 @@
 class Solution {
-    public boolean checkDivisibility(int n) {
+    public boolean checkDivisibility(int k) {
         int a=0,b=1;
-        int num=n;
-        while(n>0){
-            int c=n%10;
-            a+=c;
-            b*=c;
-            n/=10;
+        int c=k;
+        while(c!=0){
+            int n=c%10;
+            a+=n;
+            b*=n;
+            c/=10;
         }
         int d=a+b;
-        if(num%d==0){
+        if(k%d==0){
             return true;
         }
-    return false;
+        return false;
     }
 }
