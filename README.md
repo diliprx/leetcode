@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/diliprx/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/diliprx/leetcode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/diliprx/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diliprx/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/diliprx/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/diliprx/leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/diliprx/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/diliprx/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/diliprx/leetcode/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/diliprx/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/diliprx/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/diliprx/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/diliprx/leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/diliprx/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/diliprx/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/diliprx/leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/diliprx/leetcode/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/diliprx/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Backtracking
 |  |
