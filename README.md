@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/diliprx/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/diliprx/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/diliprx/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/diliprx/leetcode/tree/master/0461-hamming-distance) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/diliprx/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/diliprx/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diliprx/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/diliprx/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/diliprx/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
 | ------- |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/diliprx/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/diliprx/leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/diliprx/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
