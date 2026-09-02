@@ -20,10 +20,7 @@ class Solution {
         Collections.sort(a);
         int sum=0;
         for(int i=0;i<a.size();i++){
-            if(a.get(i)<low || a.get(i)>high){
-                continue;
-            }
-            else if(a.get(i)>=low && a.get(i)<=high){
+           if(a.get(i)>=low && a.get(i)<=high){
                 sum+=a.get(i);
             }
         }
