@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/diliprx/leetcode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/diliprx/leetcode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/diliprx/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/diliprx/leetcode/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/diliprx/leetcode/tree/master/1407-top-travellers) |
 | [1890-the-latest-login-in-2020](https://github.com/diliprx/leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Hash Table
