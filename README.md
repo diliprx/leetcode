@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/diliprx/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/diliprx/leetcode/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/diliprx/leetcode/tree/master/1407-top-travellers) |
+| [1517-find-users-with-valid-e-mails](https://github.com/diliprx/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1890-the-latest-login-in-2020](https://github.com/diliprx/leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Hash Table
 |  |
