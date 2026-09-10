@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/diliprx/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/diliprx/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/diliprx/leetcode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/diliprx/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/diliprx/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3115-maximum-prime-difference](https://github.com/diliprx/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diliprx/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
