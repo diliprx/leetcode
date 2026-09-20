@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/diliprx/leetcode/tree/master/3340-check-balanced-string) |
 | [3396-valid-word](https://github.com/diliprx/leetcode/tree/master/3396-valid-word) |
 | [3407-substring-matching-pattern](https://github.com/diliprx/leetcode/tree/master/3407-substring-matching-pattern) |
+| [3498-reverse-degree-of-a-string](https://github.com/diliprx/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/diliprx/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/diliprx/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diliprx/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/diliprx/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diliprx/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/diliprx/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/diliprx/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/diliprx/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/diliprx/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
