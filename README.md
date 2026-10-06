@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/diliprx/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/diliprx/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/diliprx/leetcode/tree/master/0819-most-common-word) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diliprx/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/diliprx/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/diliprx/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/diliprx/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/diliprx/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/diliprx/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/diliprx/leetcode/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diliprx/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/diliprx/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/diliprx/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/diliprx/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/diliprx/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/diliprx/leetcode/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diliprx/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/diliprx/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -729,4 +732,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/diliprx/leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/diliprx/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
