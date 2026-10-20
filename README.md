@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/diliprx/leetcode/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/diliprx/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diliprx/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/diliprx/leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/diliprx/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/diliprx/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/diliprx/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
