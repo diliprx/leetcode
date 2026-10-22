@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/diliprx/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0754-reach-a-number](https://github.com/diliprx/leetcode/tree/master/0754-reach-a-number) |
 | [0788-rotated-digits](https://github.com/diliprx/leetcode/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/diliprx/leetcode/tree/master/0836-rectangle-overlap) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/diliprx/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/diliprx/leetcode/tree/master/0611-valid-triangle-number) |
+| [0754-reach-a-number](https://github.com/diliprx/leetcode/tree/master/0754-reach-a-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
