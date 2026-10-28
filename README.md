@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/diliprx/leetcode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/diliprx/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/diliprx/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/diliprx/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/diliprx/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/diliprx/leetcode/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/diliprx/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/diliprx/leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/diliprx/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/diliprx/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Manacher
 |  |
 | ------- |
