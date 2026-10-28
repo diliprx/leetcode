@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/diliprx/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/diliprx/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/diliprx/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/diliprx/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/diliprx/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/diliprx/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/diliprx/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/diliprx/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/diliprx/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/diliprx/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/diliprx/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/diliprx/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/diliprx/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diliprx/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/diliprx/leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/diliprx/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/diliprx/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/diliprx/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/diliprx/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diliprx/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/diliprx/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/diliprx/leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/diliprx/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/diliprx/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/diliprx/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/diliprx/leetcode/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/diliprx/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Manacher
 |  |
