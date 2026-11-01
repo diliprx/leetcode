@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/diliprx/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/diliprx/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/diliprx/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/diliprx/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/diliprx/leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/diliprx/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/diliprx/leetcode/tree/master/0709-to-lower-case) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/diliprx/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/diliprx/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/diliprx/leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/diliprx/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/diliprx/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/diliprx/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/diliprx/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/diliprx/leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/diliprx/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diliprx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/diliprx/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/diliprx/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/diliprx/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/diliprx/leetcode/tree/master/0804-unique-morse-code-words) |
