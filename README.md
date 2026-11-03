@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/diliprx/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/diliprx/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diliprx/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/diliprx/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/diliprx/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diliprx/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/diliprx/leetcode/tree/master/3870-count-commas-in-range) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/diliprx/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/diliprx/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/diliprx/leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/diliprx/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diliprx/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diliprx/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
