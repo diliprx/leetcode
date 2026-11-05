@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/diliprx/leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/diliprx/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/diliprx/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/diliprx/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/diliprx/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diliprx/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/diliprx/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/diliprx/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/diliprx/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/diliprx/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/diliprx/leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/diliprx/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/diliprx/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/diliprx/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/diliprx/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/diliprx/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/diliprx/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/diliprx/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/diliprx/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diliprx/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/diliprx/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/diliprx/leetcode/tree/master/2000-reverse-prefix-of-word) |
