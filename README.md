@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/diliprx/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/diliprx/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diliprx/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/diliprx/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/diliprx/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/diliprx/leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/diliprx/leetcode/tree/master/0125-valid-palindrome) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/diliprx/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/diliprx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/diliprx/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/diliprx/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/diliprx/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diliprx/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/diliprx/leetcode/tree/master/0064-minimum-path-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/diliprx/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/diliprx/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/diliprx/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/diliprx/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/diliprx/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/diliprx/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/diliprx/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/diliprx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/diliprx/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/diliprx/leetcode/tree/master/0169-majority-element) |
