@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/diliprx/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/diliprx/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/diliprx/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0593-valid-square](https://github.com/diliprx/leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diliprx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/diliprx/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/diliprx/leetcode/tree/master/0754-reach-a-number) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/diliprx/leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/diliprx/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/diliprx/leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/diliprx/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
